@@ -1,0 +1,9 @@
+{
+  "generator-lionbyte": {
+    "name": "howdy",
+    "description": "",
+    "projectType": "frontend",
+    "gitHooks": true,
+    "react": true
+  }
+}
