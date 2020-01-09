@@ -56,7 +56,7 @@ module.exports = {
       chunkFilename: '[id].[contenthash].css'
     }),
     new HtmlWebpackPlugin({
-      title: 'Hello',
+      title: 'AWS Amplify Example',
       template: 'static/index.html',
       minify: {
         collapseWhitespace: true,
